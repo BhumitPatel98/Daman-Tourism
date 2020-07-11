@@ -1,0 +1,98 @@
+﻿Imports System.Data
+Imports System.Data.SqlClient
+Imports System.Data.SqlClient.SqlParameter
+
+Partial Class Insert_Hotel
+    Inherits System.Web.UI.Page
+    Dim cn As New SqlConnection("Data Source=.\SQLEXPRESS;AttachDbFilename=C:\Users\Bijal\Documents\daman.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True")
+    Dim cmd As New SqlCommand
+    Dim s, s1 As String
+    Dim da As SqlDataAdapter
+    Dim ds As New DataSet
+    'Protected Sub Button1_Click(ByVal sender As Object, ByVal e As System.EventArgs) Handles Button1.Click
+
+    '    'Dim sb, st, sy, sc As Integer
+    '    'sb = TextBox5.Text
+    '    'st = TextBox8.Text
+    '    'sy = TextBox11.Text
+    '    'sc = TextBox14.Text
+    '    'Dim min1 As Integer = Math.Min(sb, st)
+    '    'Dim min2 As Integer = Math.Min(sy, sc)
+    '    'Dim mini As Integer = Math.Min(min1, min2)
+    '    'MsgBox(mini)
+
+
+    '    'If FileUpload1.HasFile Then
+    '    '    Dim filename1 As String
+    '    '    filename1 = System.IO.Path.GetFileName(FileUpload1.PostedFile.FileName)
+    '    '    FileUpload1.SaveAs(Server.MapPath("~/imgofhotel/") + filename1)
+    '    '    Dim filepath1 As String = "~/imgofhotel/" + filename1
+
+    '    '    If FileUpload2.HasFile Then
+    '    '        Dim filename2 As String
+    '    '        filename2 = System.IO.Path.GetFileName(FileUpload2.PostedFile.FileName)
+    '    '        FileUpload2.SaveAs(Server.MapPath("~/imgofhotel/") + filename2)
+    '    '        Dim filepath2 As String = "~/imgofhotel/" + filename2
+
+    '    '        If FileUpload3.HasFile Then
+    '    '            Dim filename3 As String
+    '    '            filename3 = System.IO.Path.GetFileName(FileUpload3.PostedFile.FileName)
+    '    '            FileUpload3.SaveAs(Server.MapPath("~/imgofhotel/") + filename3)
+    '    '            Dim filepath3 As String = "~/imgofhotel/" + filename3
+
+    '    '            If FileUpload4.HasFile Then
+    '    '                Dim filename4 As String
+    '    '                filename4 = System.IO.Path.GetFileName(FileUpload4.PostedFile.FileName)
+    '    '                FileUpload4.SaveAs(Server.MapPath("~/imgofhotel/") + filename4)
+    '    '                Dim filepath4 As String = "~/imgofhotel/" + filename4
+    '    '                Dim str As [String] = ""
+    '    '                For i As Integer = 0 To CheckBoxList1.Items.Count - 1
+
+    '    '                    If CheckBoxList1.Items(i).Selected Then
+
+    '    '                        If str = "" Then
+    '    '                            str = CheckBoxList1.Items(i).Text
+    '    '                        Else
+
+    '    '                            str += "," + CheckBoxList1.Items(i).Text
+
+    '    '                        End If
+    '    '                    End If
+    '    '                Next
+    '    '                s = "insert into hotel(hname,loc,email,phno,fac,sb,db,fb,st,dt,ft,sy,dy,fy,sc,dc,fc,mimg,img2,img3,img4) values(@a,@b,@c,@d,@e,@f,@g,@h,@i,@j,@k,@l,@m,@n,@o,@p,@q,@r,@s,@t,@u)"
+    '    '                cn.Open()
+    '    '                cmd = New SqlCommand(s, cn)
+    '    '                cmd.Parameters.AddWithValue("@a", TextBox1.Text)
+    '    '                cmd.Parameters.AddWithValue("@b", TextBox2.Text)
+    '    '                cmd.Parameters.AddWithValue("@c", TextBox3.Text)
+    '    '                cmd.Parameters.AddWithValue("@d", TextBox4.Text)
+    '    '                cmd.Parameters.AddWithValue("@e", str)
+    '    '                cmd.Parameters.AddWithValue("@f", TextBox5.Text)
+    '    '                cmd.Parameters.AddWithValue("@g", TextBox6.Text)
+    '    '                cmd.Parameters.AddWithValue("@h", TextBox7.Text)
+    '    '                cmd.Parameters.AddWithValue("@i", TextBox8.Text)
+    '    '                cmd.Parameters.AddWithValue("@j", TextBox9.Text)
+    '    '                cmd.Parameters.AddWithValue("@k", TextBox10.Text)
+    '    '                cmd.Parameters.AddWithValue("@l", TextBox11.Text)
+    '    '                cmd.Parameters.AddWithValue("@m", TextBox12.Text)
+    '    '                cmd.Parameters.AddWithValue("@n", TextBox13.Text)
+    '    '                cmd.Parameters.AddWithValue("@o", TextBox14.Text)
+    '    '                cmd.Parameters.AddWithValue("@p", TextBox15.Text)
+    '    '                cmd.Parameters.AddWithValue("@q", TextBox16.Text)
+    '    '                cmd.Parameters.AddWithValue("@r", filepath1)
+    '    '                cmd.Parameters.AddWithValue("@s", filepath2)
+    '    '                cmd.Parameters.AddWithValue("@t", filepath3)
+    '    '                cmd.Parameters.AddWithValue("@u", filepath4)
+    '    '                cmd.ExecuteNonQuery()
+    '    '                cn.Close()
+    '    '            End If
+    '    '        End If
+    '    '    End If
+    '    'End If
+    '    'MsgBox("record Inserted")
+
+    'End Sub
+
+
+ 
+End Class

@@ -1,0 +1,320 @@
+Hotel Name  :                   The Deltin
+
+Hotel Addres:                   varkund village,nani daman
+
+Hotel Facilities:               WIFI\TV\AC\TERRACE\POOL\SPA\HOTEL BAR\SAFE
+
+Hotel Double room price:	cleartrip:11,453, Booking.com:11,453, travelguru:13,916, Hotel.com:12,612, Yatra.com:13,983
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                    Mirasol    
+
+Hotel Addres:                    Kadaiya Village,Daman
+
+Hotel Facilities:                PARKING\TV\AC\POOL
+
+Hotel Double room price:	 Booking.com:4,878, travelguru:7,014, Yatra.com:7,046,  
+
+Hotel Single room price:
+
+
+
+Hotel Name  :                   Silver Sands Beach
+
+Hotel Addres:                   varkud village,nani daman
+
+Hotel Facilities:               WIFI\PARKING\TV\AC\POOL\SPA\HOTEL BAR\SAFE
+
+Hotel Double room price:	Booking.com:1,408, travelguru:1.323, Yatra.com:1,329
+
+Hotel Single room price:	
+
+
+Hotel Name:			The Emerald
+
+Hotel Addres:                   Sea Face Road,nani daman,Daman
+
+Hotel Facilities:               WIFI\PARKING\TV\AC\SAFE
+
+Hotel Double room price:	Cleartrip:2,163, Goibibo:1,913,  travelguru:2,383,  Yatra.com:2,707
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                   Cidade De Daman
+
+Hotel Addres:                   Devka Beach,nani daman
+
+Hotel Facilities:               PARKING\TV\AC\POOL\HOTEL BAR
+
+Hotel Double room price:	cleartrip:4,228,Goibibo:3,535 travelguru:4,989, Yatra.com:5,013
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                   Jazira
+
+Hotel Addres:                   Devka Beach,Nani Daman
+
+Hotel Facilities:               WIFI\TV\AC\TERRACE\HOTEL BAR\SAFE
+
+Hotel Double room price:	cleartrip:4,336, travelguru:3,991, Yatra.com:4,011,
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                   Sea Rock Inn 
+
+Hotel Addres:                   Devka Beach,Nani daman
+
+Hotel Facilities:               WIFI\PARKING\TV\AC\POOL\SPA\HOTEL BAR\SAFE
+
+Hotel Double room price:	cleartrip:5,371, Booking.com:5,420, Make my trip:5,420, Goibibo.com:4,442
+
+Hotel Single room price:	
+
+
+Hotel Name  :                   Sovereign
+
+Hotel Addres:                   Sea Face Road,nani daman
+
+Hotel Facilities:               WIFI\PARKING\TV\AC\SAFE
+
+Hotel Double room price:	Goibibo:1,867, travelguru:3,518, Yatra.com:3,537
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                   The Gold Beach Resort
+
+Hotel Addres:                   Devka beach Road,nani daman
+
+Hotel Facilities:               WIFI\PARKING\TV\AC\TERRACE\POOL\HOTEL BAR\SAFE
+
+Hotel Double room price:	cleartrip:7,581, travelguru:6,700, Hotel info:7,000, Yatra.com:6,736, Goibibo:7,588, Make my trip:7,588
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                   Gurukripa
+
+Hotel Addres:                   Sea Face Road,nani daman
+
+Hotel Facilities:               WIFI\PARKING\TV\AC\HOTEL BAR\SAFE
+
+Hotel Double room price:	cleartrip:2,168,Goibibo:1,868, travelguru:1,748, Yatra.com:1,756
+
+Hotel Single room price:
+
+
+
+Hotel Name  :                   Sandy
+
+Hotel Addres:                   Devaka Beach Road Bhimpor,nani daman
+
+Hotel Facilities:               WIFI\TV\AC\POOL\HOTEL BAR
+
+Hotel Double room price:	travelguru:2,994,Yatra.com:2,959, Happy Rooms:7,321
+
+Hotel Single room price:
+
+
+
+Hotel Name  :                   Dariya Darshan
+
+Hotel Addres:                   Kadaiya Machiwad Road, Devka, Bhimpore,Daman
+
+Hotel Facilities:               PARKING\TV\AC
+
+Hotel Double room price:	cleartrip:2,750, travelguru:1,451, Yatra.com:1,458
+
+Hotel Single room price:	
+	
+	
+
+Hotel Name  :                   Brighton
+
+Hotel Addres:                   varkud village,nani daman
+
+Hotel Facilities:               WIFI\PARKING\TV\AC
+
+Hotel Double room price:	Booking.com:1,626, Goibibo:2,034, Make my trip:2,686
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                   Sukh Sagar
+
+Hotel Addres:                   Navi Ori,nani daman
+
+Hotel Facilities:               NON
+
+Hotel Double room price:	travelguru:730
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                   Nana's Palace
+
+Hotel Addres:                   Sea Face Road, Nani Daman
+
+Hotel Facilities:               WIFI\PARKING\TV\AC\HOTEL BAR
+
+Hotel Double room price:	cleartrip:2,000,Goibibo:1,573, Happy Rooms:5,980 Yatra.com:1,876
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                   Daman - Casa Tesoro A Sterling
+
+Hotel Addres:                   Old Hotel - Presidency, Khariwad, Nani Daman
+
+Hotel Facilities:               NON
+
+Hotel Double room price:	Booking.com:3,491, Goibibo:3,491, Hotel.com:3,491
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                   Blue Lagoon
+
+Hotel Addres:                   Near Tin Batti, Opposite Goa Bank, Nani Daman
+
+Hotel Facilities:               NON
+
+Hotel Double room price:	Make my trip:2,401, Booking.com:2,439, Happy Rooms:6,451
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                   Hill Top
+
+Hotel Addres:                   Bhimpore, Kund Falia, Pataliya, Daman 
+
+Hotel Facilities:               TV\AC\TERRACE\SPA\HOTEL BAR
+
+Hotel Double room price:	cleartrip:1,933,  travelguru:1,852, Yatra.com:1,861
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                   Natraj Daman
+
+Hotel Addres:                   Sea Face Road, Nani Daman
+
+Hotel Facilities:               WIFI\TV\AC
+
+Hotel Double room price:	travelguru:1,596
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                   Sagar Presidency
+
+Hotel Addres:                   Tin Batti, 396210, Daman
+
+Hotel Facilities:               WIFI\TV\AC
+
+Hotel Double room price:	travelguru:2,186, Yatra.com:2,197, cleartrip:2,680,Goibibo:2,415, Happy Rooms:6,437
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                   Ashoka Palace
+
+Hotel Addres:                   Opp Devka Beach Garden, Nani Daman
+
+Hotel Facilities:               NON
+
+Hotel Double room price:	travelguru:3,137
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                   Diamond
+
+Hotel Addres:                   Near Nani Daman Taxi Stand,Nani Daman
+
+Hotel Facilities:               WIFI\PARKING\TV\AC\TERRACE\HOTEL BAR\SAFE
+
+Hotel Double room price:	cleartrip:1,626, travelguru:1,466, Goibibo:1,476 Yatra.com:1,473
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                   Summer House
+
+Hotel Addres:                   Opp Road Jazira Hotel, Devka Beach, Nani Daman
+
+Hotel Facilities:               NON
+
+Hotel Double room price:	travelguru:1,338, Yatra.com:1,345
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                   Sai Regency
+
+Hotel Addres:                   NARAYAN PARK, DEVKA ROAD, NANI DAMAN
+
+Hotel Facilities:               NON
+
+Hotel Double room price:	cleartrip:2,168
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                   Princess Park
+
+Hotel Addres:                   Devka Beach, Nani Daman
+
+Hotel Facilities:               NON
+
+Hotel Double room price:	cleartrip:4,297
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                   Blue Lagoon
+
+Hotel Addres:                   Opp. Goa Bank, Near Tin Batti, Nani Daman,
+
+Hotel Facilities:               NON
+
+Hotel Double room price:	cleartrip:2,392
+
+Hotel Single room price:	
+
+
+
+Hotel Name  :                   Raj Palace
+
+Hotel Addres:                   Nr Marshal Chowk , Nani Daman 
+
+Hotel Facilities:               NON
+
+Hotel Double room price:	travelguru:1,866
+
+Hotel Single room price:	
+
